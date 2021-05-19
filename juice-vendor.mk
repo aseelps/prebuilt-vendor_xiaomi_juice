@@ -305,20 +305,9 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     PowerOffAlarm \
-    PerformanceMode \
     QtiTelephonyService \
-    WigigTetheringRRO \
-    atfwd \
-    com.qualcomm.qti.services.secureui \
     datastatusnotification \
     embms \
-    remoteSimLockAuthentication \
-    remotesimlockservice \
-    uimgbaservice \
-    uimlpaservice \
-    uimremoteclient \
-    uimremoteserver \
-    xdivert \
     WfdService \
     dpmserviceapp \
     ims \
